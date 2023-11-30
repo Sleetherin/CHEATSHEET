@@ -1,0 +1,52 @@
+*
+{
+    background-color: #ccc;
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+    box-sizing: border-box;
+}
+
+h1
+{
+   font-family: 'Playpen Sans', cursive;
+   text-decoration: underline;
+}
+
+h2
+{
+   color: #585C33;
+   font-weight: bolder;
+}
+
+table
+{
+   border:3px solid #270BDB;
+   margin: 20px;
+   display:inline-block;
+   font-size:20px;
+   padding:2px;
+   font-weight: 700;
+}
+
+th 
+{
+   background-color: #355E86;
+   border: 1px solid #0D74DB;
+   color:#fff;
+}
+
+td
+{
+   border:1px solid black;
+}
+
+td:first-of-type
+{
+   background-color:#DB1A0D;
+}
+
+#footer
+{
+   margin-top:80px;
+}
+
